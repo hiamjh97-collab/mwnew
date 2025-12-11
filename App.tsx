@@ -21,7 +21,7 @@ import Careers from './pages/Careers';
 import Terms from './pages/Terms';
 import Privacy from './pages/Privacy';
 import ChatWidget from './components/ChatWidget';
-
+@import "tailwindcss";
 const ScrollToTop = () => {
   const { pathname } = useLocation();
 
