@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Marketing Widget",
+  "description": "A high-performance React application replicating the Marketing Widget agency website, featuring comprehensive service pages, an interactive ROI calculator, and an AI-powered chatbot.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
